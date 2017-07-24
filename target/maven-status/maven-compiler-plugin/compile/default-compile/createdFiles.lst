@@ -1,0 +1,9 @@
+br\rodolfo\vilaca\dto\Product.class
+br\rodolfo\vilaca\model\Product.class
+br\rodolfo\vilaca\dao\ProductDAOImpl.class
+br\rodolfo\vilaca\webservice\CORSFilter.class
+br\rodolfo\vilaca\webservice\ProductWS.class
+br\rodolfo\vilaca\dao\ProductDAO.class
+br\rodolfo\vilaca\webservice\ProductWSImpl$1.class
+br\rodolfo\vilaca\dao\mappers\ProductRowMapper.class
+br\rodolfo\vilaca\webservice\ProductWSImpl.class
